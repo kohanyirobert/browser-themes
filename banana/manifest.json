@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Banana",
+    "theme": {
+        "colors": {
+            "frame": [
+                246,
+                205,
+                0
+            ]
+        }
+    }
+}
